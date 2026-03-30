@@ -1,4 +1,5 @@
 Cultural Notes Generator
+
 A simple Python script that uses OpenAI GPT to turn keywords or transcript into short cultural explanations.
 How to Use
 Clone or download the project folder to your computer.
